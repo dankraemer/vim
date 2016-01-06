@@ -1,7 +1,8 @@
 - Installation:
 
-    git clone [rl1xx machine path]
+	git clone ssh://dka@10.83.157.179/~/.vim
 
 - Create symlinks:
 
     ln -s ~/.vim/vimrc ~/.vimrc 
+
