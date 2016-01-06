@@ -1,9 +1,9 @@
-- Installation:
+Installation:
 
   cd ~
-	git clone ssh://dka@10.83.157.179/srv/git/vim .vim
+  git clone ssh://dka@10.83.157.179/srv/git/vim .vim
 
-- Create symlinks:
+Create symlinks:
 
-    ln -s ~/.vim/vimrc ~/.vimrc 
+  ln -s ~/.vim/vimrc ~/.vimrc 
 
